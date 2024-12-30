@@ -2,8 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-upload_data_to_db
-upload_data.py
+
+
 # C extensions
 *.so
 deployment_documentation/local_project _setup.md
@@ -11,7 +11,7 @@ deployment_documentation
 # Distribution / packaging
 .Python
 deployment_documentation
-upload_data.py
+
 build/
 develop-eggs/
 dist/
